@@ -1,4 +1,6 @@
-### Oi, eu sou o Raphael! 👋
+## Oi, eu sou o Raphael! 👋
+Sou formado em Geografia, mas não demorou muito para eu entender que me encontro de verdade na área do desenvolvimento web.
+Atualmente estou estudando JavaScript, React e PHP
 <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=quefoirapha&count_private=true&show_icons=true&hide=stars,prs&theme=jolly"> <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quefoirapha&layout=compact&theme=jolly">
   <br><br>
