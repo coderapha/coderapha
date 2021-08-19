@@ -12,7 +12,14 @@ const SobreMim = {
   site: "https://raphaelcardoso.tech/"
 }
 ```
-### 🌱 Atualmente eu estou estudando JavaScript, HTML e CSS
+### 🌱 Atualmente eu estou estudando:
+<div style="display: inline">
+  <a href="https://github.com/quefoirapha">
+    <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+</div>
 
 ### 🎯 Meus objetivos atuais são:
 * Me tornar um desenvolvedor e designer web
