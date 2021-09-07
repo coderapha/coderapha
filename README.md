@@ -26,6 +26,6 @@ const SobreMim = {
 
 ### 👨‍💻 Minhas linguagens mais usadas são:
 <a href="https://github.com/quefoirapha">
-  <img style="max-width:100%;" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quefoirapha&layout=compact&theme=nord&hide_title=true">
-  <img align="right" style="max-width:100%;" height="190em" src="https://mforum.ist/media/nyan-cat.4685/full">
+  <img style="max-width:100%;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quefoirapha&layout=compact&theme=nord&hide_title=true">
+  <img align="right" style="max-width:100%;" height="130em" src="https://mforum.ist/media/nyan-cat.4685/full">
 </a>
