@@ -1,4 +1,4 @@
-## Olá, eu sou o Raphael, um aspirante a desenvolvedor web 👨‍🚀
+## Olá, eu sou o Raphael! 👋
 <a href="https://twitter.com/quefoirapha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCCRVLfn-Qj6oeLQ0gM6p8aQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -7,25 +7,43 @@
 ```javascript
 const SobreMim = {
   nome: "raphael cardoso",
+  username: "@quefoirapha",
   idade: "24 anos",
-  twitter: "@quefoirapha",
   site: "https://raphaelcardoso.tech/"
 }
 ```
+
+<hr>
+
 ### 🌱 Atualmente eu estou estudando:
 <div style="display: inline">
   <a href="https://github.com/quefoirapha">
-    <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   </a>
 </div>
 
+<hr>
+
 ### 🎯 Meus objetivos atuais são:
-* Me tornar um desenvolvedor e designer web
+* Me tornar um desenvolvedor web full stack
+
+<hr>
 
 ### 👨‍💻 Minhas linguagens mais usadas são:
 <a href="https://github.com/quefoirapha">
-  <img style="max-width:100%;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quefoirapha&layout=compact&theme=nord&hide_title=true">
-  <img align="right" style="max-width:100%;" height="130em" src="https://mforum.ist/media/nyan-cat.4685/full">
+  <img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quefoirapha&layout=compact&theme=dracula&hide_title=true">
+</a>
+
+<hr>
+
+### 💯 Desafio #100DaysOfCode
+Clique na imagem abaixo para conferir
+
+<a href="https://github.com/quefoirapha/100-days-of-code" title="Desafio 100 days of code">
+  <img style="max-width:100%;" src="https://i.imgur.com/9CyGDFT.png">
 </a>
