@@ -40,10 +40,3 @@ const SobreMim = {
 </a>
 
 <hr>
-
-### 💯 Desafio #100DaysOfCode
-Clique na imagem abaixo para conferir
-
-<a href="https://github.com/raphajsdev/100-days-of-code" title="Desafio 100 days of code">
-  <img style="max-width:100%;" src="https://i.imgur.com/9CyGDFT.png">
-</a>
